@@ -16,7 +16,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 | Metric | Value |
 | --- | --- |
-| Investment Required | €526,500 |
+| Investment Required | €626,500 |
 | Projected Annual Sales Growth | 25% |
 | Return on Investment (ROI) | 18% (Short Term), 52% (Long Term) |
 
@@ -132,7 +132,7 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
 
 ### 3. SWOT Analysis
 
-![logo](/Images/SWOT.png)
+![SWOT](/Images/SWOT.png)
 
 # 5. Organizational Plan
 
@@ -529,11 +529,11 @@ The "unit" is a single user subscription. The cost per unit is calculated by div
 This metric is critical for ensuring that the pricing tiers (Price from the 4Ps) are profitable and that the Customer Acquisition Cost (CAC) is sustainable relative to the Lifetime Value (LTV) of a customer.
 
 
-# 7. Financial Plan
+# 8. Financial Plan
 
 ### 1. Key Assumptions
 
-*   **Initial Investment:** €526,500.
+*   **Initial Investment:** €626,500.
 *   **Revenue Growth:** A conservative 25% per annum, considering the need for market education.
 *   **Churn Rate:** Projected at 8% monthly initially, reflecting the "Customer Resistance" threat. A key focus will be to reduce this through excellent onboarding and proving ROI.
 *   **Customer Acquisition Cost (CAC):** Estimated at €120. This is based on initial digital marketing campaigns and reflects the investment needed to overcome our "Limited Brand Recognition".
@@ -542,20 +542,20 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
 
 ### 2. Investment Allocation
 
-The €526,500 investment will be strategically allocated for 18-month short-term period:
+The €626,500 investment will be strategically allocated for 18-month short-term period:
 
 | Category | Amount | Percentage | Purpose |
 | --- | --- | --- | --- |
-| **Salaries & Benefits** | €445,500 | 85% | 15-person full team for 18 months |
-| **Product Development** | €40,000 | 8% | MVP development, API integrations, infrastructure |
-| **Marketing & Sales** | €97,500 | 18% | Customer acquisition, brand building, market validation |
-| **Operations & Admin** | €42,523 | 8% | Legal, accounting, office, tools |
-| **Contingency Fund** | €37,500 | 7% | Unexpected costs, market changes |
-| **Total** | **€526,500** | **100%** | **18 month runway** |
+| **Salaries & Benefits** | €445,500 | 84.6% | 15-person full team for 18 months |
+| **Product Development** | €40,000 | 7.6% | MVP development, API integrations, infrastructure |
+| **Marketing & Sales** | €61,000 | 11.6% | Customer acquisition, brand building, market validation |
+| **Operations & Admin** | €42,500 | 8.1% | Legal, accounting, office, tools |
+| **Contingency Fund** | €37,500 | 7.1% | Unexpected costs, market changes |
+| **Total** | **€626,500** | **100%** | **18 month runway** |
 
 ### 3. Financial Projections & ROI
 
-*   **Break-Even:** Projected at Month 18 with 800 active customers
+*   **Break-Even:** Projected at Month 18 with 1,200 active customers
 *   **Profitability:** Positive cash flow expected by Month 24
 *   **Return on Investment (ROI):**
     *   **Short Term (18 months):** 18%
@@ -593,19 +593,19 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 
 | Cost Category | Monthly Amount | Annual Amount |
 | --- | --- | --- |
-| Personnel Costs | €15,593 | €187,116 |
+| Personnel Costs | €24,750 | €297,000 |
 | Cloud Infrastructure | €1,200 | €14,400 |
 | Marketing & Sales | €5,417 | €65,000 |
 | Software & Tools | €800 | €9,600 |
 | Legal & Admin | €1,250 | €15,000 |
-| **Total Monthly Burn** | **€24,260** | **€291,116** |
+| **Total Monthly Burn** | **€33,417** | **€401,000** |
 
 #### 4.3. Runway & Customer Acquisition
 
-* **Monthly Net Burn:** €24,260
-* **Available Investment:** €526,500
-* **Runway:** 18 months (1.5 years)
-* **CAC Budget:** €97,500 allows for 812 customers at €120 CAC
+* **Monthly Net Burn:** €33,417
+* **Available Investment:** €626,500
+* **Runway:** 18.8 months (approximately 19 months)
+* **CAC Budget:** €61,000 allows for 508 customers at €120 CAC
 * **Break-Even Target:** 1,200 customers by Month 18
 
 #### 4.4. Phased Hiring Strategy
@@ -626,9 +626,9 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 
 **Key Improvements Made:**
 
-1.  **Realistic Portuguese Salaries:** €526,500 investment for 18-month runway
+1.  **Realistic Portuguese Salaries:** €626,500 investment for 18-month runway
 2.  **Junior-Focused Structure:** 15 employees with competitive Portuguese startup rates
 3.  **Cost-Effective Operations:** Lean team with junior to mid-level positions
 4.  **Break-Even Target:** 1,200 customers by Month 18
-5.  **Lower Burn Rate:** €24,260 monthly for sustainable operations
+5.  **Corrected Burn Rate:** €33,417 monthly for sustainable operations
 6.  **Contingency Planning:** 7% buffer for unexpected challenges
