@@ -69,11 +69,13 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 ### 2.4. Revenue Streams
 
-- **Subscription Fees:** Tiered pricing based on the number of listings or active features.
+- **Subscription Fees:** Tiered pricing based on the number of listings or active features for our SME customers.
 
 - **Usage Fees:** Add-ons for advanced analytics or bulk uploads.
 
-- **Partnerships:** Revenue from referrals and integrations.
+- **Partnerships:** Revenue from referrals and integrations with ERPs.
+
+- **Enterprise Partnership (Shared Success Model):** In our second phase, revenue will be generated from a share of sales from our large enterprise partner, creating a long-term, mutually beneficial relationship.
 
 # 3. Marketing Plan
 
@@ -459,7 +461,19 @@ This hybrid approach recognizes that people are both strategic resources (Hard) 
 
 # 6. Operational Plan
 
-### 1. Implementation Roadmap
+### 1. Strategic Roadmap: From Consolidation to Enterprise Partnership
+
+Our long-term vision extends beyond the initial SME market. We will execute a phased strategy:
+
+*  **Phase 1: Consolidate the SME Market.** Our immediate priority is to become the leading solution for small and medium sellers by integrating with the ERPs they already use. This builds a stable foundation and a strong user base.
+
+*  **Phase 2: Secure a Strategic Enterprise Partner.** Instead of competing with giants like Rithum to build a massive, all-encompassing ERP, we will leverage our established position to form a deep partnership with a single, large enterprise customer.
+
+*  **Phase 3: Deep Integration and Shared Success.** We will integrate our system directly into the enterprise partner's workflow, adapting our technology to their specific needs. This partnership will be based on a shared success model, where AdFlux takes a percentage of sales generated through our platform, ensuring continuous support and aligned goals.
+
+This approach allows us to grow sustainably, avoid direct competition with market giants, and create a powerful relationship with a major player in the e-commerce space.
+
+### 2. Implementation Roadmap
 
 *   **Phase 1: Initiation (0-3 Months):** Finalize legal documentation, assemble technical team, obtain initial investment, and launch marketing teaser.
 *   **Phase 2: Development (3-6 Months):**
@@ -468,7 +482,7 @@ This hybrid approach recognizes that people are both strategic resources (Hard) 
     *   **Milestone:** Functional Prototype and User Testing with "Power Users".
 *   **Phase 3: Beta & Launch (6-12 Months):** Release Beta version, execute official marketing launch, and begin expansion to secondary marketplaces.
 
-### 2. Risk Management
+### 3. Risk Management
 
 *   **Marketplace Dependency Risk (High):** Our reliance on third-party APIs creates a significant risk if marketplaces change their policies, restrict access, or become temporarily unavailable.
     *   **Mitigation:** We will build a robust and flexible architecture that can adapt quickly to API changes. We will also prioritize strong relationships with marketplaces and diversify the number of integrated platforms to reduce dependency on any single one.
@@ -485,7 +499,7 @@ This hybrid approach recognizes that people are both strategic resources (Hard) 
 *   **Financial Risk (Medium):** A high churn rate or a higher-than-expected Customer Acquisition Cost (CAC) could impact our financial viability.
     *   **Mitigation:** We will closely monitor churn and CAC. Our focus on customer success and demonstrating ROI is our primary retention strategy. Tiered pricing and exploring partnerships as revenue streams will diversify our income.
 
-## VII. Production Plan
+# 7. Production Plan
 
 ### 1. Starting Point and Sales Program
 The production plan is directly driven by the sales forecast from the marketing strategy. As a SaaS platform, "production" refers to ensuring the platform's capacity, features, and performance can meet the subscribed user demand.
