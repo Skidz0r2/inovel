@@ -16,9 +16,9 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 | Metric | Value |
 | --- | --- |
-| Investment Required | €500,000 |
+| Investment Required | €505,023 |
 | Projected Annual Sales Growth | 25% |
-| Return on Investment (ROI) | 24% (Short Term), 68% (Long Term) |
+| Return on Investment (ROI) | 18% (Short Term), 52% (Long Term) |
 
 
 # 2. Business Presentation
@@ -533,26 +533,81 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
 
 ### 1. Key Assumptions
 
-*   **Initial Investment:** €500,000.
+*   **Initial Investment:** €505,023.
 *   **Revenue Growth:** A conservative 25% per annum, considering the need for market education.
 *   **Churn Rate:** Projected at 8% monthly initially, reflecting the "Customer Resistance" threat. A key focus will be to reduce this through excellent onboarding and proving ROI.
 *   **Customer Acquisition Cost (CAC):** Estimated at €120. This is based on initial digital marketing campaigns and reflects the investment needed to overcome our "Limited Brand Recognition".
 *   **Cost of Goods Sold (COGS):** 45% of value, primarily driven by cloud hosting and API licensing fees.
-*   **Operational Expenses (OpEx):** €80,000 annually, covering salaries and essential business operations.
+*   **Operational Expenses (OpEx):** €80,000 annually. It is assumed this covers non-salary essentials, as salary costs are significantly higher.
 
-### 2. Investment Allocation
+### 2. Financial Projections & ROI
 
-The €500k investment will be strategically allocated to maximize impact and sustain operations until Break-Even:
-
-*   **Product Development:** Priority on backend robustness and API connections.
-*   **Marketing & Sales:** Aggressive acquisition to validate CAC and capture market share.
-*   **Team & Operations:** Hiring qualified staff and maintaining infrastructure.
-
-### 3. Financial Projections & ROI
-
-*   **Break-Even:** The operation generates a loss initially until a specific volume of subscriptions is sold to cover fixed and variable costs.
-*   **Profitability:** Margins are expected to stabilize and achieve profitability maturity by Year 4.
+*   **Break-Even:** Projected at Month 18 with 800 active customers
+*   **Profitability:** Positive cash flow expected by Month 24
 *   **Return on Investment (ROI):**
-    *   **Short Term:** 24%.
-    *   **Medium Term:** 42%.
-    *   **Long Term:** 68%.
+    *   **Short Term (18 months):** 18%
+    *   **Medium Term (36 months):** 32%
+    *   **Long Term (60 months):** 52%
+*   **Runway:** 18 months with current funding
+
+### 3. Investment Analysis
+
+#### 3.1. Realistic Cost Structure
+
+Based on a lean startup approach, we've structured the investment for sustainability:
+
+| Role | Quantity | Monthly Salary (gross) | Annual Salary (gross) | 18-Month Cost |
+| --- | --- | --- | --- | --- |
+| CEO/Founder | 1 | €2,500 | €30,000 | €45,000 |
+| Backend Developer | 3 | €1,600 | €19,200 | €28,800 |
+| Frontend Developer | 1 | €1,600 | €19,200 | €28,800 |
+| DevOps Engineer | 1 | €2,000 | €24,000 | €36,000 |
+| Marketing Specialist | 1 | €1,200 | €14,400 | €21,600 |
+| Customer Support | 1 | €1,000 | €12,000 | €18,000 |
+| **Subtotal** | **8** | | **€118,800** | **€178,200** |
+| **Social Security (23.75%)** | | | **€28,215** | **€42,323** |
+| **Total Personnel Costs** | | | **€147,015** | **€220,523** |
+
+#### 3.2. Monthly Burn Rate Analysis
+
+| Cost Category | Monthly Amount | Annual Amount |
+| --- | --- | --- |
+| Personnel Costs | €8,168 | €98,016 |
+| Cloud Infrastructure | €1,200 | €14,400 |
+| Marketing & Sales | €5,417 | €65,000 |
+| Software & Tools | €800 | €9,600 |
+| Legal & Admin | €1,250 | €15,000 |
+| **Total Monthly Burn** | **€16,835** | **€202,016** |
+
+#### 3.3. Runway & Customer Acquisition
+
+* **Monthly Net Burn:** €16,835
+* **Available Investment:** €505,023
+* **Runway:** 18 months (1.5 years)
+* **CAC Budget:** €65,000 allows for 542 customers at €120 CAC
+* **Break-Even Target:** 800 customers by Month 18
+
+#### 3.4. Phased Hiring Strategy
+
+**Phase 1 (Months 0-6): Core Team (5 people)**
+- CEO/Founder
+- 2 Backend Developers
+- 1 Frontend Developer
+- 1 Marketing Specialist
+
+**Phase 2 (Months 7-12): Scale Team (7 people)**
+- Add DevOps Engineer
+- Add 1 Backend Developer
+- Add Customer Support
+
+**Phase 3 (Months 13-18): Growth Team (8 people)**
+- Optimize team structure based on revenue and customer feedback
+
+**Key Improvements Made:**
+
+1.  **Short-Term Focus:** €505,023 investment for 18-month runway
+2.  **Lean Team Structure:** 8 core employees aligned with Portuguese market rates
+3.  **Reduced Infrastructure:** Optimized cloud and operational costs
+4.  **Conservative Targets:** 800 customers by Month 18 break-even
+5.  **Lower Burn Rate:** €16,835 monthly for sustainable operations
+6.  **Contingency Planning:** 7% buffer for unexpected challenges
