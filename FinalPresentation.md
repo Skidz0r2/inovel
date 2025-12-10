@@ -133,17 +133,329 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
 
 # 5. Organizational Plan
 
-### 1. Team Structure
+The organizational structure serves as an instrument for coordinating activities and controlling the actions of AdFlux's members. It defines how human resources are distributed and managed, establishes formal communication and decision-making channels, and supports talent attraction, retention, and development.
 
-*   **Business/Leadership:** Responsible for strategy, funding, and strategic partnerships.
-*   **Development Department:** Focused on MVP architecture, API maintenance, and Cloud Infrastructure.
-*   **Marketing & Sales:** Dedicated to CAC optimization and channel management.
-*   **Customer Support:** Critical for the initial "high-touch" onboarding phase required by the 85% of users who are less experienced.
+**Elements Influencing Organizational Design:**
+*   **Company Objectives:** Rapid market entry, scalability, and customer satisfaction
+*   **Strategy:** Focus on innovation, agility, and customer-centricity
+*   **Technology:** Cloud-based SaaS platform requiring API expertise and DevOps capabilities
+*   **Size:** Startup phase (10-15 employees initially, scaling to 30+ by Year 2)
+*   **Environment:** Fast-paced tech sector with high competition and rapid market changes
 
-### 2. Human Resources Strategy
+## 1. Organizational Structure
 
-*   **Key Hires:** Backend Developers (API expertise) and UI/UX Designers (to maintain the "Simplicity" value).
-*   **Culture:** A "Customer Focus" culture where feature development is prioritized based on user feedback data (e.g., the 55% demand for auto-publishing).
+### 1.1. Organization Chart
+
+```
+CEO / Founder
+│
+├── Chief Technology Officer (CTO)
+│   ├── Development Team
+│   │   ├── Backend Developers (2-3)
+│   │   ├── Frontend Developers (2)
+│   │   └── DevOps Engineer (1)
+│   └── Quality Assurance (1)
+│
+├── Chief Marketing Officer (CMO)
+│   ├── Marketing Team
+│   │   ├── Digital Marketing Specialist (1)
+│   │   └── Content Creator (1)
+│   └── Sales Team
+│       └── Sales Representatives (2)
+│
+├── Head of Customer Success
+│   └── Customer Support Team
+│       ├── Customer Support Specialists (2-3)
+│       └── Onboarding Specialist (1)
+│
+└── Chief Financial Officer (CFO) / Operations
+    └── Finance & Admin (1)
+```
+
+### 1.2. Department Responsibilities
+
+**Business/Leadership:**
+*   Strategic planning and vision execution
+*   Investor relations and funding management
+*   Strategic partnerships with marketplaces and ERPs
+*   Overall company performance and decision-making
+
+**Development Department:**
+*   MVP architecture design and implementation
+*   API integrations and maintenance (critical for platform stability)
+*   Cloud infrastructure management (AWS/GCP/Azure)
+*   Product development aligned with customer feedback
+*   Quality assurance and testing
+
+**Marketing & Sales:**
+*   Customer Acquisition Cost (CAC) optimization
+*   Digital marketing campaigns (SEO, Google Ads, content marketing)
+*   Channel management and partner relationships
+*   Brand awareness and market positioning
+
+**Customer Support:**
+*   High-touch onboarding for the 85% of users who are less experienced
+*   User assistance and problem resolution
+*   Feedback collection to inform product development
+*   Customer retention and satisfaction
+
+## 2. Job Descriptions (Key Positions)
+
+### 2.1. Backend Developer
+**Responsibilities:**
+*   Design and develop robust API integrations with marketplaces (Amazon, OLX, eBay, etc.)
+*   Build scalable backend architecture for multi-channel publishing
+*   Implement stock synchronization and data consistency systems
+*   Maintain and monitor API performance and reliability
+
+**Required Skills:** API development, cloud architecture, database design, Python/Node.js
+
+### 2.2. UI/UX Designer
+**Responsibilities:**
+*   Design intuitive user interfaces that embody the "Simplicity" core value
+*   Create user flows for product publishing and dashboard navigation
+*   Conduct user testing and iterate based on feedback
+*   Ensure accessibility and responsive design
+
+**Required Skills:** User research, prototyping, design systems, Figma/Adobe XD
+
+### 2.3. Customer Support Specialist
+**Responsibilities:**
+*   Provide personalized onboarding support for new users
+*   Resolve technical issues and answer product questions
+*   Collect and document user feedback for product improvements
+*   Maintain high customer satisfaction scores
+
+**Required Skills:** Communication, problem-solving, SaaS platform knowledge, empathy
+
+### 2.4. Digital Marketing Specialist
+**Responsibilities:**
+*   Execute SEO strategies targeting "marketplace automation" keywords
+*   Manage Google Ads campaigns to optimize CAC
+*   Develop content marketing strategies (blog posts, tutorials, case studies)
+*   Analyze marketing metrics and ROI
+
+**Required Skills:** SEO, SEM, content marketing, analytics tools, B2B SaaS experience
+
+## 3. Communication and Decision-Making Channels
+
+### 3.1. Formal Communication Structure
+*   **Daily Stand-ups:** Development team sync meetings (15 minutes)
+*   **Weekly All-Hands:** Company-wide updates on progress and priorities
+*   **Bi-weekly Sprint Reviews:** Product demos and feedback sessions
+*   **Monthly Strategy Reviews:** Leadership team alignment on objectives
+*   **Quarterly Business Reviews:** Performance analysis and planning
+
+### 3.2. Decision-Making Framework
+*   **Strategic Decisions:** CEO/Founder with input from leadership team
+*   **Product Decisions:** CTO and Development team, informed by customer feedback data
+*   **Marketing Decisions:** CMO with data-driven approach (CAC, conversion rates)
+*   **Customer-Facing Decisions:** Head of Customer Success with support team input
+*   **Cross-Functional Decisions:** Collaborative approach with relevant stakeholders
+
+### 3.3. Information Systems for People Management
+*   **HRIS (Human Resources Information System):** Track employee data, performance, and development
+*   **Project Management Tools:** Jira/Asana for development tracking
+*   **Communication Platforms:** Slack for real-time collaboration
+*   **Performance Management System:** Quarterly reviews and goal tracking
+
+## 4. Human Resources Strategy: The Six Pillars of People Management
+
+### 4.1. ACOMPANHAR PESSOAS (Monitoring People)
+
+**Performance Monitoring:**
+*   **Quarterly Performance Reviews:** Structured evaluations with clear objectives
+*   **Key Performance Indicators (KPIs):** Department-specific metrics aligned with company goals
+  *   Development: API uptime, feature delivery velocity, bug resolution time
+  *   Marketing: CAC, conversion rates, customer acquisition growth
+  *   Customer Support: Response time, customer satisfaction (CSAT), retention rate
+*   **Continuous Feedback:** Regular 1-on-1 meetings between managers and team members
+*   **Data-Driven Insights:** Use analytics to identify top performers and areas for improvement
+
+**Performance Management Model:**
+*   **Goal Setting:** SMART objectives aligned with company strategy
+*   **Regular Check-ins:** Monthly progress reviews
+*   **360-Degree Feedback:** Peer and cross-functional input for comprehensive evaluation
+*   **Performance Improvement Plans:** Support for employees who need development
+
+### 4.2. AGREGAR PESSOAS (Recruiting People)
+
+**Recruitment and Selection Process:**
+
+1. **Job Vacancy Identification:**
+   *   Analyze current team capacity and project needs
+   *   Decision: Fill internally (redistribution) or recruit externally
+
+2. **Profile Definition:**
+   *   Create detailed job descriptions with required competencies
+   *   Define technical skills, soft skills, and cultural fit criteria
+   *   Prioritize: API expertise for developers, customer empathy for support
+
+3. **Recruitment Channels:**
+   *   **Internal:** Promote from within when possible (retention strategy)
+   *   **External:** 
+     *   Tech job boards (LinkedIn, Stack Overflow, GitHub Jobs)
+     *   University partnerships for junior positions
+     *   Referral program (employee incentives)
+     *   Tech meetups and conferences
+
+4. **Selection Process:**
+   *   **Initial Screening:** Resume and portfolio review
+   *   **Technical Assessment:** Coding challenges or design tasks
+   *   **Interviews:** 
+     *   Technical interview with team lead
+     *   Cultural fit interview with leadership
+     *   Final interview with CEO/Founder for key positions
+   *   **Reference Checks:** Validate previous experience and performance
+
+5. **Decision and Offer:**
+   *   Evaluate candidates against defined profile
+   *   Extend competitive offers aligned with market rates
+   *   **Rejected Candidates:** Provide constructive feedback when requested
+
+**Key Hires Priority (Year 1):**
+*   **Backend Developers (2-3):** Critical for API integrations and platform stability
+*   **UI/UX Designer (1):** Essential to maintain "Simplicity" value proposition
+*   **Customer Support Specialists (2):** High-touch onboarding for 85% of inexperienced users
+*   **Digital Marketing Specialist (1):** Optimize CAC and drive growth
+
+### 4.3. ORIENTAR PESSOAS (Orienting People)
+
+**Onboarding and Integration:**
+*   **Welcome Program:** First-day orientation covering company culture, values, and tools
+*   **Buddy System:** Pair new hires with experienced team members
+*   **30-60-90 Day Plans:** Structured goals for first three months
+*   **Access and Tools:** Immediate setup of necessary systems and accounts
+
+**Competency Model:**
+*   **Technical Competencies:** Role-specific skills (API development, UI/UX design, etc.)
+*   **Core Competencies:** 
+     *   Customer Focus (aligns with core value)
+     *   Problem-solving and adaptability
+     *   Communication and collaboration
+     *   Innovation and continuous learning
+
+**Performance Management Model:**
+*   **Clear Expectations:** Define success criteria for each role
+*   **Regular Feedback:** Weekly check-ins during onboarding, monthly thereafter
+*   **Goal Alignment:** Connect individual goals to company objectives
+*   **Development Planning:** Identify growth opportunities early
+
+### 4.4. RETER PESSOAS (Retaining People)
+
+**Career Management Model:**
+*   **Career Paths:** Defined progression routes within each department
+  *   Developer: Junior → Mid → Senior → Tech Lead
+  *   Support: Specialist → Team Lead → Head of Customer Success
+  *   Marketing: Specialist → Manager → CMO
+*   **Individual Development Plans (IDPs):** Personalized growth roadmaps
+*   **Internal Mobility:** Opportunities to move between departments (e.g., Support to Product)
+
+**Retention Strategies:**
+*   **Competitive Compensation:** Market-rate salaries with equity participation
+*   **Work-Life Balance:** Flexible working arrangements, remote-friendly culture
+*   **Professional Growth:** Training budgets, conference attendance, certifications
+*   **Recognition Programs:** Employee of the month, peer recognition, public acknowledgment
+*   **Culture of Transparency:** Open communication about company performance and challenges
+*   **Purpose-Driven Work:** Connect daily tasks to company mission and customer impact
+
+**Addressing Retention Challenges:**
+*   **High Competition:** Tech talent is in high demand
+  *   *Mitigation:* Competitive packages, strong culture, meaningful work
+*   **Startup Uncertainty:** Early-stage company risks
+  *   *Mitigation:* Clear communication, equity participation, growth opportunities
+*   **Burnout Prevention:** Fast-paced environment
+  *   *Mitigation:* Realistic deadlines, work-life balance, mental health support
+
+### 4.5. RECOMPENSAR PESSOAS (Rewarding People)
+
+**Compensation Model:**
+*   **Base Salary:** Competitive market rates based on role and experience
+*   **Equity Participation:** Stock options for all employees (vesting over 4 years)
+*   **Performance Bonuses:** Annual bonuses tied to individual and company performance
+*   **Benefits Package:**
+     *   Health insurance
+     *   Professional development budget (€1,000-2,000/year per employee)
+     *   Flexible PTO (paid time off)
+     *   Remote work stipend (home office setup)
+
+**Incentive Schemes:**
+*   **Sales Commission:** For sales team members (percentage of closed deals)
+*   **Referral Bonuses:** €500-1,000 for successful employee referrals
+*   **Innovation Rewards:** Recognition and bonuses for process improvements or feature ideas
+*   **Retention Bonuses:** Milestone rewards (1-year, 2-year anniversaries)
+*   **Team Performance:** Department bonuses when team goals are exceeded
+
+**Total Rewards Philosophy:**
+*   Balance between fixed (salary) and variable (bonuses, equity) compensation
+*   Emphasize long-term value through equity participation
+*   Recognize both individual contributions and team collaboration
+
+### 4.6. DESENVOLVER PESSOAS (Developing People)
+
+**Training and Development Management:**
+*   **Onboarding Training:** 
+     *   Product knowledge (understand AdFlux platform deeply)
+     *   Customer personas and pain points
+     *   Company culture and values
+*   **Continuous Learning:**
+     *   **Technical Training:** 
+       *   Developers: API best practices, cloud architecture workshops
+       *   Designers: UX research methods, design system updates
+     *   **Soft Skills:** Communication, leadership, customer service
+     *   **Industry Knowledge:** E-commerce trends, marketplace updates
+*   **External Development:**
+     *   Conference attendance (company-sponsored)
+     *   Online courses and certifications (Coursera, Udemy, etc.)
+     *   Professional memberships and networking events
+
+**Knowledge Management:**
+*   **Documentation:** Comprehensive internal wiki (product specs, processes, best practices)
+*   **Knowledge Sharing:**
+     *   Weekly tech talks (team members present learnings)
+     *   Post-mortems after major releases or incidents
+     *   Cross-functional training sessions
+*   **Mentorship Program:**
+     *   Pair junior employees with senior mentors
+     *   Reverse mentoring (juniors teach seniors about new tools/trends)
+*   **Learning Culture:**
+     *   Encourage experimentation and learning from failures
+     *   Allocate 10% time for personal projects or skill development
+     *   Celebrate learning achievements and certifications
+
+## 5. Organizational Culture
+
+**Core Values Integration:**
+*   **Simplicity:** All processes and communications should be clear and straightforward
+*   **Efficiency:** Eliminate bureaucracy; focus on what drives value
+*   **Transparency:** Open communication about company performance, challenges, and decisions
+*   **Customer Focus:** Every decision should consider customer impact; feature development prioritized by user feedback data
+*   **Strategic Partnerships:** Collaborative approach both externally (marketplaces) and internally (cross-functional teams)
+
+**HR Model Approach:**
+AdFlux adopts a **Hybrid Model** combining elements of both Hard and Soft approaches:
+*   **Hard Elements:** Strategic alignment of HR with business objectives, data-driven performance metrics, integration of people management with company strategy
+*   **Soft Elements:** People as valuable assets, emphasis on development and growth, proactive communication and motivation, leadership focus on empowerment
+
+This hybrid approach recognizes that people are both strategic resources (Hard) and valuable assets requiring investment in their growth and well-being (Soft).
+
+## 6. Organizational Evolution Plan
+
+**Year 1 (Startup Phase - 10-15 employees):**
+*   Flat structure with direct communication
+*   Focus on hiring core technical and customer-facing roles
+*   Establish basic HR processes and culture
+
+**Year 2 (Growth Phase - 20-30 employees):**
+*   Introduce middle management layer (Team Leads)
+*   Formalize HR processes (performance reviews, career paths)
+*   Expand departments based on business needs
+
+**Year 3+ (Scale Phase - 30+ employees):**
+*   More structured hierarchy with clear reporting lines
+*   Specialized roles and departments
+*   Advanced HR systems and programs
+*   Focus on retention and internal development
 
 # 6. Operational Plan
 
