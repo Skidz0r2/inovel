@@ -124,8 +124,9 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
 | **Plugg.to** | Mid to Large businesses | Complex interface, higher price point. | Focused on larger clients, leaving a gap for an SME-focused solution. |
 | **Olist** | All sizes | Acts as an intermediary, taking a cut of sales. | AdFlux's SaaS model offers better margins for sellers. |
 | **AnyMarket** | Enterprise-level | High implementation cost and complexity. | Not a viable option for the small and medium sellers AdFlux is targeting. |
+| **Rithum** | Enterprise-level | Complex and costly for SMEs. | Formerly CommerceHub/ChannelAdvisor, focuses on large enterprises, creating a gap for a lightweight SME solution. |
 
-**AdFlux's Strategic Position:** We are not just another tool. We are positioned to fill the "Innovation Gap" for SMEs. While competitors like **Plugg.to**, **Olist**, and **AnyMarket** focus on larger enterprises or different business models, AdFlux offers a lightweight, user-friendly, and affordable solution specifically designed for the needs of small to medium businesses. We win on simplicity, focus, and by providing a clear ROI to an underserved market segment.
+**AdFlux's Strategic Position:** We are not just another tool. We are positioned to fill the "Innovation Gap" for SMEs. While competitors like **Plugg.to**, **Olist**, **AnyMarket**, and **Rithum** focus on larger enterprises or different business models, AdFlux offers a lightweight, user-friendly, and affordable solution specifically designed for the needs of small to medium businesses. We win on simplicity, focus, and by providing a clear ROI to an underserved market segment.
 
 ### 3. SWOT Analysis
 
@@ -151,8 +152,8 @@ CEO / Founder
 │
 ├── Chief Technology Officer (CTO)
 │   ├── Development Team
-│   │   ├── Backend Developers (2-3)
-│   │   ├── Frontend Developers (2)
+│   │   ├── Backend Developers (4)
+│   │   ├── Frontend Developers (1)
 │   │   └── DevOps Engineer (1)
 │   └── Quality Assurance (1)
 │
@@ -161,12 +162,11 @@ CEO / Founder
 │   │   ├── Digital Marketing Specialist (1)
 │   │   └── Content Creator (1)
 │   └── Sales Team
-│       └── Sales Representatives (2)
+│       └── Sales Representatives (1)
 │
 ├── Head of Customer Success
 │   └── Customer Support Team
-│       ├── Customer Support Specialists (2-3)
-│       └── Onboarding Specialist (1)
+│       └── Customer Support Specialists (2)
 │
 └── Chief Financial Officer (CFO) / Operations
     └── Finance & Admin (1)
@@ -261,7 +261,7 @@ CEO / Founder
 
 ## 4. Human Resources Strategy: The Six Pillars of People Management
 
-### 4.1. ACOMPANHAR PESSOAS (Monitoring People)
+### 4.1. Monitoring People
 
 **Performance Monitoring:**
 *   **Quarterly Performance Reviews:** Structured evaluations with clear objectives
@@ -278,7 +278,7 @@ CEO / Founder
 *   **360-Degree Feedback:** Peer and cross-functional input for comprehensive evaluation
 *   **Performance Improvement Plans:** Support for employees who need development
 
-### 4.2. AGREGAR PESSOAS (Recruiting People)
+### 4.2. Recruiting People
 
 **Recruitment and Selection Process:**
 
@@ -314,12 +314,12 @@ CEO / Founder
    *   **Rejected Candidates:** Provide constructive feedback when requested
 
 **Key Hires Priority (Year 1):**
-*   **Backend Developers (2-3):** Critical for API integrations and platform stability
+*   **Backend Developers (4):** Critical for API integrations and platform stability
 *   **UI/UX Designer (1):** Essential to maintain "Simplicity" value proposition
-*   **Customer Support Specialists (2):** High-touch onboarding for 85% of inexperienced users
+*   **Customer Support Specialists (1):** High-touch onboarding for 85% of inexperienced users
 *   **Digital Marketing Specialist (1):** Optimize CAC and drive growth
 
-### 4.3. ORIENTAR PESSOAS (Orienting People)
+### 4.3. Orienting People
 
 **Onboarding and Integration:**
 *   **Welcome Program:** First-day orientation covering company culture, values, and tools
@@ -341,7 +341,7 @@ CEO / Founder
 *   **Goal Alignment:** Connect individual goals to company objectives
 *   **Development Planning:** Identify growth opportunities early
 
-### 4.4. RETER PESSOAS (Retaining People)
+### 4.4. Retaining People
 
 **Career Management Model:**
 *   **Career Paths:** Defined progression routes within each department
@@ -367,7 +367,7 @@ CEO / Founder
 *   **Burnout Prevention:** Fast-paced environment
   *   *Mitigation:* Realistic deadlines, work-life balance, mental health support
 
-### 4.5. RECOMPENSAR PESSOAS (Rewarding People)
+### 4.5. Rewarding People
 
 **Compensation Model:**
 *   **Base Salary:** Competitive market rates based on role and experience
@@ -391,7 +391,7 @@ CEO / Founder
 *   Emphasize long-term value through equity participation
 *   Recognize both individual contributions and team collaboration
 
-### 4.6. DESENVOLVER PESSOAS (Developing People)
+### 4.6. Developing People
 
 **Training and Development Management:**
 *   **Onboarding Training:** 
