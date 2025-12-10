@@ -16,7 +16,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 | Metric | Value |
 | --- | --- |
-| Investment Required | €505,023 |
+| Investment Required | €526,500 |
 | Projected Annual Sales Growth | 25% |
 | Return on Investment (ROI) | 18% (Short Term), 52% (Long Term) |
 
@@ -150,27 +150,27 @@ The organizational structure serves as an instrument for coordinating activities
 ### 1.1. Organization Chart
 
 ```
-CEO / Founder
+CEO / Founder (1)
 │
-├── Chief Technology Officer (CTO)
+├── Chief Technology Officer (CTO) (1)
 │   ├── Development Team
 │   │   ├── Backend Developers (4)
 │   │   ├── Frontend Developers (1)
 │   │   └── DevOps Engineer (1)
 │   └── Quality Assurance (1)
 │
-├── Chief Marketing Officer (CMO)
+├── Chief Marketing Officer (CMO) (1)
 │   ├── Marketing Team
 │   │   ├── Digital Marketing Specialist (1)
 │   │   └── Content Creator (1)
 │   └── Sales Team
 │       └── Sales Representatives (1)
 │
-├── Head of Customer Success
+├── Head of Customer Success (1)
 │   └── Customer Support Team
 │       └── Customer Support Specialists (2)
 │
-└── Chief Financial Officer (CFO) / Operations
+└── Chief Financial Officer (CFO) / Operations (1)
     └── Finance & Admin (1)
 ```
 
@@ -533,14 +533,27 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
 
 ### 1. Key Assumptions
 
-*   **Initial Investment:** €505,023.
+*   **Initial Investment:** €526,500.
 *   **Revenue Growth:** A conservative 25% per annum, considering the need for market education.
 *   **Churn Rate:** Projected at 8% monthly initially, reflecting the "Customer Resistance" threat. A key focus will be to reduce this through excellent onboarding and proving ROI.
 *   **Customer Acquisition Cost (CAC):** Estimated at €120. This is based on initial digital marketing campaigns and reflects the investment needed to overcome our "Limited Brand Recognition".
 *   **Cost of Goods Sold (COGS):** 45% of value, primarily driven by cloud hosting and API licensing fees.
 *   **Operational Expenses (OpEx):** €80,000 annually. It is assumed this covers non-salary essentials, as salary costs are significantly higher.
 
-### 2. Financial Projections & ROI
+### 2. Investment Allocation
+
+The €526,500 investment will be strategically allocated for 18-month short-term period:
+
+| Category | Amount | Percentage | Purpose |
+| --- | --- | --- | --- |
+| **Salaries & Benefits** | €445,500 | 85% | 15-person full team for 18 months |
+| **Product Development** | €40,000 | 8% | MVP development, API integrations, infrastructure |
+| **Marketing & Sales** | €97,500 | 18% | Customer acquisition, brand building, market validation |
+| **Operations & Admin** | €42,523 | 8% | Legal, accounting, office, tools |
+| **Contingency Fund** | €37,500 | 7% | Unexpected costs, market changes |
+| **Total** | **€526,500** | **100%** | **18 month runway** |
+
+### 3. Financial Projections & ROI
 
 *   **Break-Even:** Projected at Month 18 with 800 active customers
 *   **Profitability:** Positive cash flow expected by Month 24
@@ -550,44 +563,52 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
     *   **Long Term (60 months):** 52%
 *   **Runway:** 18 months with current funding
 
-### 3. Investment Analysis
+### 4. Investment Analysis
 
-#### 3.1. Realistic Cost Structure
+#### 4.1. Realistic Cost Structure
 
 Based on a lean startup approach, we've structured the investment for sustainability:
 
 | Role | Quantity | Monthly Salary (gross) | Annual Salary (gross) | 18-Month Cost |
 | --- | --- | --- | --- | --- |
-| CEO/Founder | 1 | €2,500 | €30,000 | €45,000 |
-| Backend Developer | 3 | €1,600 | €19,200 | €28,800 |
-| Frontend Developer | 1 | €1,600 | €19,200 | €28,800 |
-| DevOps Engineer | 1 | €2,000 | €24,000 | €36,000 |
-| Marketing Specialist | 1 | €1,200 | €14,400 | €21,600 |
-| Customer Support | 1 | €1,000 | €12,000 | €18,000 |
-| **Subtotal** | **8** | | **€118,800** | **€178,200** |
-| **Social Security (23.75%)** | | | **€28,215** | **€42,323** |
-| **Total Personnel Costs** | | | **€147,015** | **€220,523** |
+| CEO/Founder | 1 | €1,800 | €21,600 | €32,400 |
+| CTO | 1 | €2,200 | €26,400 | €39,600 |
+| Backend Developer | 4 | €1,200 | €14,400 | €21,600 |
+| Frontend Developer | 1 | €1,200 | €14,400 | €21,600 |
+| DevOps Engineer | 1 | €1,500 | €18,000 | €27,000 |
+| Quality Assurance | 1 | €1,000 | €12,000 | €18,000 |
+| CMO | 1 | €2,000 | €24,000 | €36,000 |
+| Digital Marketing Specialist | 1 | €900 | €10,800 | €16,200 |
+| Content Creator | 1 | €800 | €9,600 | €14,400 |
+| Sales Representative | 1 | €1,000 | €12,000 | €18,000 |
+| Head of Customer Success | 1 | €1,600 | €19,200 | €28,800 |
+| Customer Support Specialist | 2 | €800 | €9,600 | €14,400 |
+| CFO/Operations | 1 | €2,000 | €24,000 | €36,000 |
+| Finance & Admin | 1 | €900 | €10,800 | €16,200 |
+| **Subtotal** | **15** | | **€226,800** | **€360,000** |
+| **Social Security (23.75%)** | | | **€53,865** | **€85,500** |
+| **Total Personnel Costs** | | | **€280,665** | **€445,500** |
 
-#### 3.2. Monthly Burn Rate Analysis
+#### 4.2. Monthly Burn Rate Analysis
 
 | Cost Category | Monthly Amount | Annual Amount |
 | --- | --- | --- |
-| Personnel Costs | €8,168 | €98,016 |
+| Personnel Costs | €15,593 | €187,116 |
 | Cloud Infrastructure | €1,200 | €14,400 |
 | Marketing & Sales | €5,417 | €65,000 |
 | Software & Tools | €800 | €9,600 |
 | Legal & Admin | €1,250 | €15,000 |
-| **Total Monthly Burn** | **€16,835** | **€202,016** |
+| **Total Monthly Burn** | **€24,260** | **€291,116** |
 
-#### 3.3. Runway & Customer Acquisition
+#### 4.3. Runway & Customer Acquisition
 
-* **Monthly Net Burn:** €16,835
-* **Available Investment:** €505,023
+* **Monthly Net Burn:** €24,260
+* **Available Investment:** €526,500
 * **Runway:** 18 months (1.5 years)
-* **CAC Budget:** €65,000 allows for 542 customers at €120 CAC
-* **Break-Even Target:** 800 customers by Month 18
+* **CAC Budget:** €97,500 allows for 812 customers at €120 CAC
+* **Break-Even Target:** 1,200 customers by Month 18
 
-#### 3.4. Phased Hiring Strategy
+#### 4.4. Phased Hiring Strategy
 
 **Phase 1 (Months 0-6): Core Team (5 people)**
 - CEO/Founder
@@ -605,9 +626,9 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 
 **Key Improvements Made:**
 
-1.  **Short-Term Focus:** €505,023 investment for 18-month runway
-2.  **Lean Team Structure:** 8 core employees aligned with Portuguese market rates
-3.  **Reduced Infrastructure:** Optimized cloud and operational costs
-4.  **Conservative Targets:** 800 customers by Month 18 break-even
-5.  **Lower Burn Rate:** €16,835 monthly for sustainable operations
+1.  **Realistic Portuguese Salaries:** €526,500 investment for 18-month runway
+2.  **Junior-Focused Structure:** 15 employees with competitive Portuguese startup rates
+3.  **Cost-Effective Operations:** Lean team with junior to mid-level positions
+4.  **Break-Even Target:** 1,200 customers by Month 18
+5.  **Lower Burn Rate:** €24,260 monthly for sustainable operations
 6.  **Contingency Planning:** 7% buffer for unexpected challenges
