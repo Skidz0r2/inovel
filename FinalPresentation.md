@@ -142,7 +142,7 @@ The organizational structure serves as an instrument for coordinating activities
 *   **Company Objectives:** Rapid market entry, scalability, and customer satisfaction
 *   **Strategy:** Focus on innovation, agility, and customer-centricity
 *   **Technology:** Cloud-based SaaS platform requiring API expertise and DevOps capabilities
-*   **Size:** Startup phase (10-15 employees initially, scaling to 30+ by Year 2)
+*   **Size:** Startup phase (18 employees initially, scaling to 30+ by Year 2)
 *   **Environment:** Fast-paced tech sector with high competition and rapid market changes
 
 ## 1. Organizational Structure
@@ -546,11 +546,11 @@ The €626,500 investment will be strategically allocated for 18-month short-ter
 
 | Category | Amount | Percentage | Purpose |
 | --- | --- | --- | --- |
-| **Salaries & Benefits** | €445,500 | 84.6% | 15-person full team for 18 months |
-| **Product Development** | €40,000 | 7.6% | MVP development, API integrations, infrastructure |
-| **Marketing & Sales** | €61,000 | 11.6% | Customer acquisition, brand building, market validation |
-| **Operations & Admin** | €42,500 | 8.1% | Legal, accounting, office, tools |
-| **Contingency Fund** | €37,500 | 7.1% | Unexpected costs, market changes |
+| **Salaries & Benefits** | €625,275 | 99.8% | 18-person full team for 18 months |
+| **Product Development** | €1,225 | 0.2% | MVP development, API integrations, infrastructure |
+| **Marketing & Sales** | €0 | 0% | Customer acquisition, brand building, market validation |
+| **Operations & Admin** | €0 | 0% | Legal, accounting, office, tools |
+| **Contingency Fund** | €0 | 0% | Unexpected costs, market changes |
 | **Total** | **€626,500** | **100%** | **18 month runway** |
 
 ### 3. Financial Projections & ROI
@@ -571,40 +571,40 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 
 | Role | Quantity | Monthly Salary (gross) | Annual Salary (gross) | 18-Month Cost |
 | --- | --- | --- | --- | --- |
-| CEO/Founder | 1 | €1,800 | €21,600 | €32,400 |
-| CTO | 1 | €2,200 | €26,400 | €39,600 |
-| Backend Developer | 4 | €1,200 | €14,400 | €21,600 |
-| Frontend Developer | 1 | €1,200 | €14,400 | €21,600 |
-| DevOps Engineer | 1 | €1,500 | €18,000 | €27,000 |
-| Quality Assurance | 1 | €1,000 | €12,000 | €18,000 |
-| CMO | 1 | €2,000 | €24,000 | €36,000 |
-| Digital Marketing Specialist | 1 | €900 | €10,800 | €16,200 |
-| Content Creator | 1 | €800 | €9,600 | €14,400 |
-| Sales Representative | 1 | €1,000 | €12,000 | €18,000 |
-| Head of Customer Success | 1 | €1,600 | €19,200 | €28,800 |
-| Customer Support Specialist | 2 | €800 | €9,600 | €14,400 |
-| CFO/Operations | 1 | €2,000 | €24,000 | €36,000 |
-| Finance & Admin | 1 | €900 | €10,800 | €16,200 |
-| **Subtotal** | **15** | | **€226,800** | **€360,000** |
-| **Social Security (23.75%)** | | | **€53,865** | **€85,500** |
-| **Total Personnel Costs** | | | **€280,665** | **€445,500** |
+| CEO/Founder (Management) | 1 | €3,500 | €42,000 | €63,000 |
+| CTO (Management) | 1 | €3,500 | €42,000 | €63,000 |
+| Backend Developer (Operational) | 4 | €1,800 | €21,600 | €32,400 |
+| Frontend Developer (Operational) | 1 | €1,800 | €21,600 | €32,400 |
+| DevOps Engineer (Operational) | 1 | €1,800 | €21,600 | €32,400 |
+| Quality Assurance (Operational) | 1 | €1,800 | €21,600 | €32,400 |
+| CMO (Commercial) | 1 | €1,400 | €16,800 | €25,200 |
+| Digital Marketing Specialist (Commercial) | 1 | €1,400 | €16,800 | €25,200 |
+| Content Creator (Commercial) | 1 | €1,400 | €16,800 | €25,200 |
+| Sales Representative (Commercial) | 1 | €1,400 | €16,800 | €25,200 |
+| Head of Customer Success (Administrative) | 1 | €2,000 | €24,000 | €36,000 |
+| Customer Support Specialist (Administrative) | 2 | €2,000 | €24,000 | €36,000 |
+| CFO/Operations (Administrative) | 1 | €2,000 | €24,000 | €36,000 |
+| Finance & Admin (Administrative) | 1 | €2,000 | €24,000 | €36,000 |
+| **Subtotal** | **18** | | **€336,800** | **€505,200** |
+| **Social Security (23.75%)** | | | **€80,040** | **€120,075** |
+| **Total Personnel Costs** | | | **€416,840** | **€625,275** |
 
 #### 4.2. Monthly Burn Rate Analysis
 
 | Cost Category | Monthly Amount | Annual Amount |
 | --- | --- | --- |
-| Personnel Costs | €24,750 | €297,000 |
+| Personnel Costs | €34,738 | €416,840 |
 | Cloud Infrastructure | €1,200 | €14,400 |
 | Marketing & Sales | €5,417 | €65,000 |
 | Software & Tools | €800 | €9,600 |
 | Legal & Admin | €1,250 | €15,000 |
-| **Total Monthly Burn** | **€33,417** | **€401,000** |
+| **Total Monthly Burn** | **€43,405** | **€520,840** |
 
 #### 4.3. Runway & Customer Acquisition
 
-* **Monthly Net Burn:** €33,417
+* **Monthly Net Burn:** €43,405
 * **Available Investment:** €626,500
-* **Runway:** 18.8 months (approximately 19 months)
+* **Runway:** 14.4 months (approximately 14 months)
 * **CAC Budget:** €61,000 allows for 508 customers at €120 CAC
 * **Break-Even Target:** 1,200 customers by Month 18
 
@@ -626,9 +626,9 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 
 **Key Improvements Made:**
 
-1.  **Realistic Portuguese Salaries:** €626,500 investment for 18-month runway
-2.  **Junior-Focused Structure:** 15 employees with competitive Portuguese startup rates
+1.  **Realistic Portuguese Salaries:** €626,500 investment for 14-month runway
+2.  **Expanded Team Structure:** 18 employees with competitive Portuguese startup rates
 3.  **Cost-Effective Operations:** Lean team with junior to mid-level positions
 4.  **Break-Even Target:** 1,200 customers by Month 18
-5.  **Corrected Burn Rate:** €33,417 monthly for sustainable operations
-6.  **Contingency Planning:** 7% buffer for unexpected challenges
+5.  **Updated Burn Rate:** €43,405 monthly for sustainable operations
+6.  **Reduced Runway:** 14.4 months due to expanded team
