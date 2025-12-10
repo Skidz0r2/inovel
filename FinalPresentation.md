@@ -96,7 +96,7 @@ Data analysis reveals two primary segments within the SME market:
     *   **Digital:** SEO targeting "marketplace automation," Google Ads, and YouTube tutorials.
     *   **Education:** Content marketing to demonstrate ROI to small sellers.
 
-## IV. Market Study
+# 4. Market Study
 
 ### 1. Market Insights & Validation
 
@@ -126,7 +126,7 @@ Survey data from 20 respondents confirms product-market fit:
 | Scalability: SaaS model allows low-cost growth. | Brand Awareness: New entrant needs to build trust. | Partnerships: ERPs as distribution channels. | Tech Risks: Downtime or security breaches. |
 | Data Potential: Analytics on ad performance. | | | |
 
-## V. Organizational Plan
+# 5. Organizational Plan
 
 ### 1. Team Structure
 
@@ -140,7 +140,7 @@ Survey data from 20 respondents confirms product-market fit:
 *   **Key Hires:** Backend Developers (API expertise) and UI/UX Designers (to maintain the "Simplicity" value).
 *   **Culture:** A "Customer Focus" culture where feature development is prioritized based on user feedback data (e.g., the 55% demand for auto-publishing).
 
-## VI. Operational Plan
+# 6. Operational Plan
 
 ### 1. Implementation Roadmap
 
@@ -189,7 +189,8 @@ The "unit" is a single user subscription. The cost per unit is calculated by div
 *   **Cost per User = Total Monthly OpEx / Number of Active Users**
 This metric is critical for ensuring that the pricing tiers (Price from the 4Ps) are profitable and that the Customer Acquisition Cost (CAC) is sustainable relative to the Lifetime Value (LTV) of a customer.
 
-## VIII. Financial Plan
+
+# 7. Financial Plan
 
 ### 1. Key Assumptions
 
