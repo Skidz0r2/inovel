@@ -25,7 +25,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 # 2. Business Presentation
 
-## 1. Vision & Values
+## 2.1. Vision & Values
 
 **Vision:** To become the global reference platform for multi-channel sales for SMEs, making publishing accessible on all marketplaces.
 
@@ -37,9 +37,9 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 *   **Customer Focus:** Decisions born from real user needs.
 *   **Strategic Partnerships:** Building win-win relationships with marketplaces and ERPs.
 
-## 2. Business Model Canvas (Strategic Overview)
+## 2.2. Business Model Canvas (Strategic Overview)
 
-### 2.1. Value Propositions
+### 2.2.1. Value Propositions
 ![Challenges](/Images/Challenges.png)
 
 
@@ -53,7 +53,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 - **Unified Customer Messaging:** 35% of sellers struggle with fragmented communications. AdFlux consolidates messages from OLX, Facebook, and Amazon into a single inbox, ensuring no customer query is lost.
 
-### 2.2. Customer Segments
+### 2.2.2. Customer Segments
 
 - **Core Target:** Small & Medium online sellers.
 
@@ -63,7 +63,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 - **Partners:** Agencies managing listings for multiple SMB sellers.
 
-### 2.3. Key Activities & Resources
+### 2.2.3. Key Activities & Resources
 
 - **Development:** Building and maintaining robust API integrations (critical for platform stability).
 
@@ -73,7 +73,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 - **Human Capital:** Developers, data engineers, and customer success teams.
 
-### 2.4. Revenue Streams
+### 2.2.4. Revenue Streams
 
 - **Subscription Fees:** Tiered pricing based on the number of listings or active features for our SME customers.
 
@@ -85,7 +85,7 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 
 # 3. Marketing Plan
 
-### 1. Target Audience & Segmentation
+### 3.1. Target Audience & Segmentation
 
 Data analysis reveals two primary segments within the SME market:
 
@@ -99,7 +99,7 @@ Data analysis reveals two primary segments within the SME market:
 *   **Profile:** Spends 10+ hours/week managing listings; uses 3+ marketplaces.
 *   **Behavior:** This segment showed a 5.0/5.0 interest score in automation features. They are the ideal "Early Adopters" and brand embassadors.![Interess](Images/Interess.png)
 
-### 2. Marketing Mix
+### 3.2. Marketing Mix
 
 *   **Product:** Prioritize the "Product Publisher" and "Stock Sync" features, as these address the top two user complaints (manual entry and stock errors).
 *   **Price:**
@@ -116,7 +116,7 @@ Data analysis reveals two primary segments within the SME market:
 
 # 4. Market Study
 
-### 1. Market Insights & Validation
+### 4.1. Market Insights & Validation
 
 Direct survey data from 20 sellers in our target segment validates a strong product-market fit:
 
@@ -127,7 +127,7 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
     *   **The Manual Entry Grind:** 45% of sellers are bogged down by manually listing new products. Their stated interest in an automation solution is exceptionally high at 4.73 out of 5.
     *   **The Stock Sync Nightmare:** 35% struggle with keeping stock levels updated across different platforms, another major operational headache. Interest in solving this is also high, at 4.71 out of 5.
     * **Scale vs. Complexity:** Our data proves that complexity scales non-linearly, this means that sellers operating on 4 or more marketplaces face 126% (3.67 - 1.62 / 1.62) more operational challenges than single-channel sellers. This means that complexity increases a lot when trying to scale.
-### 2. Analysis of Competition
+### 4.2. Analysis of Competition
 
 | Competitor | Target Audience | Key Weakness for AdFlux to Exploit | Notes |
 | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
 
 **AdFlux's Strategic Position:** We are not just another tool. We are positioned to fill the "Innovation Gap" for SMEs. While competitors like **Plugg.to**, **Olist**, **AnyMarket**, and **Rithum** focus on larger enterprises or different business models, AdFlux offers a lightweight, user-friendly, and affordable solution specifically designed for the needs of small to medium businesses. We win on simplicity, focus, and by providing a clear ROI to an underserved market segment.
 
-### 3. SWOT Analysis
+### 4.3. SWOT Analysis
 ![SWOT](/Images/SWOT.png)
 
 # 5. Organizational Plan
@@ -152,9 +152,9 @@ The organizational structure serves as an instrument for coordinating activities
 *   **Size:** Startup phase (18 employees initially, scaling to 30+ by Year 2)
 *   **Environment:** Fast-paced tech sector with high competition and rapid market changes
 
-## 1. Organizational Structure
+## 5.1. Organizational Structure
 
-### 1.1. Organization Chart
+### 5.1.1. Organization Chart
 
 ```
 CEO / Founder (1)
@@ -181,7 +181,7 @@ CEO / Founder (1)
     └── Finance & Admin (1)
 ```
 
-### 1.2. Department Responsibilities
+### 5.1.2. Department Responsibilities
 
 **Business/Leadership:**
 *   Strategic planning and vision execution
@@ -209,9 +209,9 @@ CEO / Founder (1)
 *   Feedback collection to inform product development
 *   Customer retention and satisfaction
 
-## 2. Job Descriptions (Key Positions)
+## 5.2. Job Descriptions (Key Positions)
 
-### 2.1. Backend Developer
+### 5.2.1. Backend Developer
 **Responsibilities:**
 *   Design and develop robust API integrations with marketplaces (Amazon, OLX, eBay, etc.)
 *   Build scalable backend architecture for multi-channel publishing
@@ -220,7 +220,7 @@ CEO / Founder (1)
 
 **Required Skills:** API development, cloud architecture, database design, Python/Node.js
 
-### 2.2. UI/UX Designer
+### 5.2.2. UI/UX Designer
 **Responsibilities:**
 *   Design intuitive user interfaces that embody the "Simplicity" core value
 *   Create user flows for product publishing and dashboard navigation
@@ -229,7 +229,7 @@ CEO / Founder (1)
 
 **Required Skills:** User research, prototyping, design systems, Figma/Adobe XD
 
-### 2.3. Customer Support Specialist
+### 5.2.3. Customer Support Specialist
 **Responsibilities:**
 *   Provide personalized onboarding support for new users
 *   Resolve technical issues and answer product questions
@@ -238,7 +238,7 @@ CEO / Founder (1)
 
 **Required Skills:** Communication, problem-solving, SaaS platform knowledge, empathy
 
-### 2.4. Digital Marketing Specialist
+### 5.2.4. Digital Marketing Specialist
 **Responsibilities:**
 *   Execute SEO strategies targeting "marketplace automation" keywords
 *   Manage Google Ads campaigns to optimize CAC
@@ -247,31 +247,31 @@ CEO / Founder (1)
 
 **Required Skills:** SEO, SEM, content marketing, analytics tools, B2B SaaS experience
 
-## 3. Communication and Decision-Making Channels
+## 5.3. Communication and Decision-Making Channels
 
-### 3.1. Formal Communication Structure
+### 5.3.1. Formal Communication Structure
 *   **Daily Stand-ups:** Development team sync meetings (15 minutes)
 *   **Weekly All-Hands:** Company-wide updates on progress and priorities
 *   **Bi-weekly Sprint Reviews:** Product demos and feedback sessions
 *   **Monthly Strategy Reviews:** Leadership team alignment on objectives
 *   **Quarterly Business Reviews:** Performance analysis and planning
 
-### 3.2. Decision-Making Framework
+### 5.3.2. Decision-Making Framework
 *   **Strategic Decisions:** CEO/Founder with input from leadership team
 *   **Product Decisions:** CTO and Development team, informed by customer feedback data
 *   **Marketing Decisions:** CMO with data-driven approach (CAC, conversion rates)
 *   **Customer-Facing Decisions:** Head of Customer Success with support team input
 *   **Cross-Functional Decisions:** Collaborative approach with relevant stakeholders
 
-### 3.3. Information Systems for People Management
+### 5.3.3. Information Systems for People Management
 *   **HRIS (Human Resources Information System):** Track employee data, performance, and development
 *   **Project Management Tools:** Jira/Asana for development tracking
 *   **Communication Platforms:** Slack for real-time collaboration
 *   **Performance Management System:** Quarterly reviews and goal tracking
 
-## 4. Human Resources Strategy: The Six Pillars of People Management
+## 5.4. Human Resources Strategy: The Six Pillars of People Management
 
-### 4.1. Monitoring People
+### 5.4.1. Monitoring People
 
 **Performance Monitoring:**
 *   **Quarterly Performance Reviews:** Structured evaluations with clear objectives
@@ -288,7 +288,7 @@ CEO / Founder (1)
 *   **360-Degree Feedback:** Peer and cross-functional input for comprehensive evaluation
 *   **Performance Improvement Plans:** Support for employees who need development
 
-### 4.2. Recruiting People
+### 5.4.2. Recruiting People
 
 **Recruitment and Selection Process:**
 
@@ -329,7 +329,7 @@ CEO / Founder (1)
 *   **Customer Support Specialists (1):** High-touch onboarding for 85% of inexperienced users
 *   **Digital Marketing Specialist (1):** Optimize CAC and drive growth
 
-### 4.3. Orienting People
+### 5.4.3. Orienting People
 
 **Onboarding and Integration:**
 *   **Welcome Program:** First-day orientation covering company culture, values, and tools
@@ -351,7 +351,7 @@ CEO / Founder (1)
 *   **Goal Alignment:** Connect individual goals to company objectives
 *   **Development Planning:** Identify growth opportunities early
 
-### 4.4. Retaining People
+### 5.4.4. Retaining People
 
 **Career Management Model:**
 *   **Career Paths:** Defined progression routes within each department
@@ -377,7 +377,7 @@ CEO / Founder (1)
 *   **Burnout Prevention:** Fast-paced environment
   *   *Mitigation:* Realistic deadlines, work-life balance, mental health support
 
-### 4.5. Rewarding People
+### 5.4.5. Rewarding People
 
 **Compensation Model:**
 *   **Base Salary:** Competitive market rates based on role and experience
@@ -401,7 +401,7 @@ CEO / Founder (1)
 *   Emphasize long-term value through equity participation
 *   Recognize both individual contributions and team collaboration
 
-### 4.6. Developing People
+### 5.4.6. Developing People
 
 **Training and Development Management:**
 *   **Onboarding Training:** 
@@ -433,7 +433,7 @@ CEO / Founder (1)
      *   Allocate 10% time for personal projects or skill development
      *   Celebrate learning achievements and certifications
 
-## 5. Organizational Culture
+## 5.5. Organizational Culture
 
 **Core Values Integration:**
 *   **Simplicity:** All processes and communications should be clear and straightforward
@@ -449,7 +449,7 @@ AdFlux adopts a **Hybrid Model** combining elements of both Hard and Soft approa
 
 This hybrid approach recognizes that people are both strategic resources (Hard) and valuable assets requiring investment in their growth and well-being (Soft).
 
-## 6. Organizational Evolution Plan
+## 5.6. Organizational Evolution Plan
 
 **Year 1 (Startup Phase - 10-15 employees):**
 *   Flat structure with direct communication
@@ -469,7 +469,7 @@ This hybrid approach recognizes that people are both strategic resources (Hard) 
 
 # 6. Operational Plan
 
-### 1. Strategic Roadmap: From Consolidation to Enterprise Partnership
+### 6.1. Strategic Roadmap: From Consolidation to Enterprise Partnership
 
 Our long-term vision extends beyond the initial SME market. We will execute a phased strategy:
 
@@ -481,7 +481,7 @@ Our long-term vision extends beyond the initial SME market. We will execute a ph
 
 This approach allows us to grow sustainably, avoid direct competition with market giants, and create a powerful relationship with a major player in the e-commerce space.
 
-### 2. Implementation Roadmap
+### 6.2. Implementation Roadmap
 
 *   **Phase 1: Initiation (0-3 Months):** Finalize legal documentation, assemble technical team, obtain initial investment, and launch marketing teaser.
 *   **Phase 2: Development (3-6 Months):**
@@ -490,7 +490,7 @@ This approach allows us to grow sustainably, avoid direct competition with marke
     *   **Milestone:** Functional Prototype and User Testing with "Power Users".
 *   **Phase 3: Beta & Launch (6-12 Months):** Release Beta version, execute official marketing launch, and begin expansion to secondary marketplaces.
 
-### 3. Risk Management
+### 6.3. Risk Management
 
 *   **Marketplace Dependency Risk (High):** Our reliance on third-party APIs creates a significant risk if marketplaces change their policies, restrict access, or become temporarily unavailable.
     *   **Mitigation:** We will build a robust and flexible architecture that can adapt quickly to API changes. We will also prioritize strong relationships with marketplaces and diversify the number of integrated platforms to reduce dependency on any single one.
@@ -509,14 +509,14 @@ This approach allows us to grow sustainably, avoid direct competition with marke
 
 # 7. Production Plan
 
-### 1. Starting Point and Sales Program
+### 7.1. Starting Point and Sales Program
 The production plan is directly driven by the sales forecast from the marketing strategy. As a SaaS platform, "production" refers to ensuring the platform's capacity, features, and performance can meet the subscribed user demand.
 
-### 2. Forecasting
+### 7.2. Forecasting
 *   **Quantities to be Produced:** This translates to the number of user accounts, API calls, and data storage required. The infrastructure will be designed to scale based on the tiered subscription model (Freemium, Basic, Pro).
 *   **Stock of Raw Materials:** For a SaaS business, "raw materials" are the core software components, cloud infrastructure resources (server instances, database capacity), and third-party API licenses. Stock levels are managed through scalable cloud services (e.g., AWS, Azure) and proactive resource allocation.
 
-### 3. Description of Production Processes
+### 7.3. Description of Production Processes
 The "production" process is a continuous software development and operations lifecycle:
 1.  **Market Need Identification:** User feedback and data analysis (from the Marketing Plan) drive the feature roadmap.
 2.  **Development & Integration:** The development team builds, tests, and integrates new features and API connections (e.g., for new marketplaces).
@@ -524,14 +524,14 @@ The "production" process is a continuous software development and operations lif
 4.  **Monitoring & Maintenance:** The platform's health, performance, and security are monitored 24/7 to ensure uptime and a smooth user experience.
 5.  **Customer Support:** The support team provides user assistance, which feeds back into the need identification process.
 
-### 4. Estimation of Production Costs
+### 7.4. Estimation of Production Costs
 Production costs are primarily operational expenditures (OpEx) related to running the SaaS platform:
 *   **Cloud Hosting Fees:** Costs for servers, databases, and data transfer (e.g., AWS/Azure billing). This is the primary "cost of goods sold."
 *   **API & Licensing Costs:** Fees for using third-party marketplace APIs or licensed software components.
 *   **Personnel Costs:** Salaries for the Development, Operations, and Customer Support teams.
 *   **Monitoring & Security Tools:** Costs for software used to maintain platform health and security.
 
-### 5. Estimating Production Costs per Unit
+### 7.5. Estimating Production Costs per Unit
 The "unit" is a single user subscription. The cost per unit is calculated by dividing the total production costs by the number of active users.
 *   **Cost per User = Total Monthly OpEx / Number of Active Users**
 This metric is critical for ensuring that the pricing tiers (Price from the 4Ps) are profitable and that the Customer Acquisition Cost (CAC) is sustainable relative to the Lifetime Value (LTV) of a customer.
@@ -539,7 +539,7 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
 
 # 8. Financial Plan
 
-### 1. Key Assumptions
+### 8.1. Key Assumptions
 
 *   **Initial Investment:** €626,500.
 *   **Revenue Growth:** A conservative 25% per annum, considering the need for market education.
@@ -548,7 +548,7 @@ This metric is critical for ensuring that the pricing tiers (Price from the 4Ps)
 *   **Cost of Goods Sold (COGS):** 45% of value, primarily driven by cloud hosting and API licensing fees.
 *   **Operational Expenses (OpEx):** €80,000 annually. It is assumed this covers non-salary essentials, as salary costs are significantly higher.
 
-### 2. Investment Allocation
+### 8.2. Investment Allocation
 
 The €626,500 investment will be strategically allocated for 18-month short-term period:
 
@@ -561,7 +561,7 @@ The €626,500 investment will be strategically allocated for 18-month short-ter
 | **Contingency Fund** | €0 | 0% | Unexpected costs, market changes |
 | **Total** | **€626,500** | **100%** | **18 month runway** |
 
-### 3. Financial Projections & ROI
+### 8.3. Financial Projections & ROI
 
 *   **Break-Even:** Projected at Month 18 with 1,200 active customers
 *   **Profitability:** Positive cash flow expected by Month 24
@@ -571,9 +571,9 @@ The €626,500 investment will be strategically allocated for 18-month short-ter
     *   **Long Term (60 months):** 52%
 *   **Runway:** 18 months with current funding
 
-### 4. Investment Analysis
+### 8.4. Investment Analysis
 
-#### 4.1. Realistic Cost Structure
+#### 8.4.1. Realistic Cost Structure
 
 Based on a lean startup approach, we've structured the investment for sustainability:
 
@@ -597,7 +597,7 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 | **Social Security (23.75%)** | | | **€80,040** | **€120,075** |
 | **Total Personnel Costs** | | | **€416,840** | **€625,275** |
 
-#### 4.2. Monthly Burn Rate Analysis
+#### 8.4.2. Monthly Burn Rate Analysis
 
 | Cost Category | Monthly Amount | Annual Amount |
 | --- | --- | --- |
@@ -608,7 +608,7 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 | Legal & Admin | €1,250 | €15,000 |
 | **Total Monthly Burn** | **€43,405** | **€520,840** |
 
-#### 4.3. Runway & Customer Acquisition
+#### 8.4.3. Runway & Customer Acquisition
 
 * **Monthly Net Burn:** €43,405
 * **Available Investment:** €626,500
@@ -616,7 +616,7 @@ Based on a lean startup approach, we've structured the investment for sustainabi
 * **CAC Budget:** €61,000 allows for 508 customers at €120 CAC
 * **Break-Even Target:** 1,200 customers by Month 18
 
-#### 4.4. Phased Hiring Strategy
+#### 8.4.4. Phased Hiring Strategy
 
 **Phase 1 (Months 0-6): Core Team (5 people)**
 - CEO/Founder
