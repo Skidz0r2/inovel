@@ -2,11 +2,13 @@
 
 # 1. Executive Summary
 
-![logo](/Images/Logo.png)
+![Logo](/Images/Logo.png)
 
 AdFlux is a SaaS platform designed to democratize e-commerce for small and medium enterprises (SMEs) by centralizing and automating product publishing across multiple marketplaces.
 
 **The Data-Backed Problem:** Small and medium sellers face a significant operational bottleneck: the high effort required to manually create and manage ads across multiple platforms. This complexity scales dramatically; sellers operating on 4 or more marketplaces face 126% more operational challenges than single-channel sellers. Analysis of our target demographic reveals a critical bottleneck where manual ad creation is the single biggest operational hurdle.
+
+![Complexity](/Images/Complexity.png)
 
 **The AdFlux Solution:** AdFlux provides a centralized "Command Center." Sellers create a listing once, and AdFlux intelligently distributes and synchronizes it across platforms. This automation saves time, reduces errors, and ensures consistency in product information.
 
@@ -38,14 +40,18 @@ AdFlux is a SaaS platform designed to democratize e-commerce for small and mediu
 ## 2. Business Model Canvas (Strategic Overview)
 
 ### 2.1. Value Propositions
+![Challenges](/Images/Challenges.png)
+
 
 - **Publish Once, Sell Everywhere:** Save countless hours by creating a single product listing and publishing it across all your marketplaces (Amazon, eBay, etc.) with one click.
 
 - **Eliminate Costly Errors:** Automated synchronization of stock and product details means no more overselling or inconsistent information.
 
-- **Unlock Growth Insights:** Our analytics dashboard will help you understand what's selling where, allowing you to make smarter decisions.
+- **Unlock Growth Insights:** Rated 4.05/5 in importance by surveyed sellers, our analytics dashboard breaks down sales performance by marketplace, empowering you to double down on what works.
 
 - **Built for You:** We are not a complicated enterprise tool. AdFlux is a lightweight, intuitive platform designed specifically for the needs of small and medium sellers.
+
+- **Unified Customer Messaging:** 35% of sellers struggle with fragmented communications. AdFlux consolidates messages from OLX, Facebook, and Amazon into a single inbox, ensuring no customer query is lost.
 
 ### 2.2. Customer Segments
 
@@ -91,14 +97,15 @@ Data analysis reveals two primary segments within the SME market:
 **Segment B: The "Power User" (15% of market)**
 
 *   **Profile:** Spends 10+ hours/week managing listings; uses 3+ marketplaces.
-*   **Behavior:** This segment showed a 5.0/5.0 interest score in automation features. They are the ideal "Early Adopters" and brand evangelists.
+*   **Behavior:** This segment showed a 5.0/5.0 interest score in automation features. They are the ideal "Early Adopters" and brand embassadors.![Interess](Images/Interess.png)
 
-### 2. Marketing Mix (4Ps)
+### 2. Marketing Mix
 
 *   **Product:** Prioritize the "Product Publisher" and "Stock Sync" features, as these address the top two user complaints (manual entry and stock errors).
 *   **Price:**
     *   Subscription (SaaS) model for recurring revenue.
     *   Tiered pricing (Freemium/Basic/Pro) to allow scalability from small catalogs to large inventories.
+    * **Growth-Driven Upsell:** Data confirms that 99% of sellers with >5 years of experience manage catalogues of 10-200+ products. This validates our tiered model: we capture the 85% of beginners with low entry pricing, and revenue naturally scales as they grow into "Power Users."
 *   **Place (Distribution):**
     *   Self-service online platform (24/7 access).
     *   Distribution via partners (ERPs, agencies).
@@ -114,11 +121,12 @@ Data analysis reveals two primary segments within the SME market:
 Direct survey data from 20 sellers in our target segment validates a strong product-market fit:
 
 *   **Amazon's Marketplace Dominance:** A staggering 85% of sellers use Amazon. However, our research shows this isn't just about direct selling; it's about leveraging the marketplace for visibility and reaching its vast user base. This confirms that a robust Amazon API integration is the most critical feature for our MVP, serving needs from sales to competitive research.
-*   **The Power of Local:** In the Portuguese market, global solutions fall short. 35% of our surveyed sellers use OLX and 30% use Facebook Marketplace. By integrating these local champions, AdFlux gains an immediate, decisive competitive advantage.
+*   **The Power of Local:** In the Portuguese market, global solutions fall short. 35% of our surveyed sellers use OLX and 30% use Facebook Marketplace. By integrating these local champions, AdFlux gains an immediate, decisive competitive advantage.![Marketplaces](/Images/Marketplaces.png)
+
 *   **Validated Pain Points:**
     *   **The Manual Entry Grind:** 45% of sellers are bogged down by manually listing new products. Their stated interest in an automation solution is exceptionally high at 4.73 out of 5.
     *   **The Stock Sync Nightmare:** 35% struggle with keeping stock levels updated across different platforms, another major operational headache. Interest in solving this is also high, at 4.71 out of 5.
-
+    * **Scale vs. Complexity:** Our data proves that complexity scales non-linearly, this means that sellers operating on 4 or more marketplaces face 126% (3.67 - 1.62 / 1.62) more operational challenges than single-channel sellers. This means that complexity increases a lot when trying to scale.
 ### 2. Analysis of Competition
 
 | Competitor | Target Audience | Key Weakness for AdFlux to Exploit | Notes |
@@ -131,7 +139,6 @@ Direct survey data from 20 sellers in our target segment validates a strong prod
 **AdFlux's Strategic Position:** We are not just another tool. We are positioned to fill the "Innovation Gap" for SMEs. While competitors like **Plugg.to**, **Olist**, **AnyMarket**, and **Rithum** focus on larger enterprises or different business models, AdFlux offers a lightweight, user-friendly, and affordable solution specifically designed for the needs of small to medium businesses. We win on simplicity, focus, and by providing a clear ROI to an underserved market segment.
 
 ### 3. SWOT Analysis
-
 ![SWOT](/Images/SWOT.png)
 
 # 5. Organizational Plan
@@ -188,6 +195,7 @@ CEO / Founder (1)
 *   Cloud infrastructure management (AWS/GCP/Azure)
 *   Product development aligned with customer feedback
 *   Quality assurance and testing
+*   Developing a low-code/no-code setup process is our primary technical challenge, as 85% of our target market has fewer than 10 products and limited technical expertise.
 
 **Marketing & Sales:**
 *   Customer Acquisition Cost (CAC) optimization
